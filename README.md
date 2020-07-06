@@ -1,6 +1,8 @@
 # Chatbot project
 
-This folder contains the starting code for the chatbot project.
+Final project in HSE's NLP course on coursera
+
+Bot is no more hosted on server
 
 ## Troubleshooting
 
